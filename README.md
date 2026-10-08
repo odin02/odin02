@@ -1,16 +1,18 @@
-## Hi there 👋
+# Merhaba, ben Bengisu! 👋
 
-<!--
-**odin02/odin02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manisa Celal Bayar Üniversitesi'nde Büyük Veri Analistliği 2. sınıf öğrencisiyim. Veri madenciliği, makine öğrenmesi ve web geliştirme alanlarında projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+### 🛠️ Teknolojiler & Araçlar
+*   **Programlama Dilleri:** Python, C#, TypeScript
+*   **Veri Bilimi & Veritabanı:** Pandas, Scikit-Learn, MSSQL
+*   **Web Geliştirme:** Next.js, HTML/CSS
+*   **Araçlar:** Microsoft Excel, Word, PowerPoint, Visio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Üzerinde Çalıştığım Projeler
+*   Tüketici Tercihleri ile Ar-Ge Odaklı Moda Trend Tahmini (Keşifsel Veri Analizi aşamasında)
+*   Kümeleme Tabanlı Hanehalkı Enerji Tasarrufu Analizi (Keşifsel Veri Analizi aşamasında)
+*   Londra Trafik Akışı Sınıflandırma (Lojistik Regresyon & Karar Ağaçları)
+
+### 📫 Bana Ulaşın
+*   **Portfolyo:** [bengisu.dev](https://bengisu.dev)
+*   **LinkedIn:** [LinkedIn Profilinize Link Ekleyin]
