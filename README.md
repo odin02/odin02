@@ -15,4 +15,4 @@ Manisa Celal Bayar Üniversitesi'nde Büyük Veri Analistliği 2. sınıf öğre
 
 ### 📫 Bana Ulaşın
 *   **Portfolyo:** [bengisu.dev](https://bengisu.dev)
-*   **LinkedIn:** [LinkedIn Profilinize Link Ekleyin]
+*   **LinkedIn:** [www.linkedin.com/in/bengisukucuk]
